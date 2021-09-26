@@ -1,5 +1,56 @@
 body {
   font-family: 'Montserrat', 'sans-serif';
   background-color: #f5f7fa;
+  position: relative;
+  width: 1600px;
+  height: 2349px;
+  background: #FFFFFF;
+}
+                                              /* HEDER */
+header {
+  width: 1600px;
+  height: 80px;
+}
+                                             /* TOP-LINE */
+.social-links a {
+
+}
+.top-line {
+  
 }
 
+.top-line-logo {
+ 
+}
+
+.top-line-logo span {
+  
+}
+
+.top-line-menu {
+  
+}
+.top-line-menu a {
+  
+}
+
+.top-line-studio {
+  
+}
+.top-line-portfolio {
+  
+}
+.top-line-contacts {
+
+}
+
+.top-line-connection {
+
+
+}
+.top-line-phone-number {
+
+}
+.top-line-mail {
+
+}
